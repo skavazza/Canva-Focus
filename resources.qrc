@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/canva_focus" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
