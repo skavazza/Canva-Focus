@@ -11,12 +11,12 @@ author=Alberto Rodrigues
 email=betorodrigues@msn.com
 
 about=O Canva Focus é um plugin que ajuda a identificar e trabalhar com o centro da janela de mapa no QGIS. Com este plugin você pode:
-• Visualizar uma borda ajustável que delimita a zona de foco central do mapa
-• Ajustar o tamanho da zona de foco através de um slider
-• Ativar/desativar o modo de foco com um botão toggle
-• Visualizar o centro exato da zona de foco com um marcador em cruz
-• Centralizar automaticamente o mapa ao clicar fora da zona de foco quando o modo estiver ativado
-Ideal para trabalhos que requerem precisão no posicionamento e visualização do centro do mapa.
+    Visualizar uma borda ajustável que delimita a zona de foco central do mapa
+    Ajustar o tamanho da zona de foco através de um slider
+    Ativar/desativar o modo de foco com um botão toggle
+    Visualizar o centro exato da zona de foco com um marcador em cruz
+    Centralizar automaticamente o mapa ao clicar fora da zona de foco quando o modo estiver ativado
+    Ideal para trabalhos que requerem precisão no posicionamento e visualização do centro do mapa.
 
 tracker=https://github.com/skavazza/Canva-Focus/issues
 repository=https://github.com/skavazza/Canva-Focus
