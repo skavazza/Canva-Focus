@@ -228,5 +228,5 @@ class canvafocus:
 
             # show the dockwidget
             # TODO: fix to allow choice of dock location
-            self.iface.addDockWidget(Qt.TopDockWidgetArea, self.dockwidget)
+            self.iface.addDockWidget(Qt.LeftDockWidgetArea, self.dockwidget)
             self.dockwidget.show()
