@@ -1,24 +1,21 @@
 # This file contains metadata for your plugin.
-# This file should be included when you package your plugin.
 
-# Mandatory items:
+# This file should be included when you package your plugin.# Mandatory items:
 
 [general]
 name=Canva Focus
 qgisMinimumVersion=3.0
-description=Plugin para visualizar e controlar o foco na área central do mapa. Permite definir uma zona de borda ajustável, visualizar o centro do mapa e centralizar automaticamente ao clicar fora da zona de foco.
+description=Plugin para visualizar e controlar o foco na área central do mapa.
 version=1.0
 author=Alberto Rodrigues
 email=betorodrigues@msn.com
 
 about=O Canva Focus é um plugin que ajuda a identificar e trabalhar com o centro da janela de mapa no QGIS. Com este plugin você pode:
-
 • Visualizar uma borda ajustável que delimita a zona de foco central do mapa
 • Ajustar o tamanho da zona de foco através de um slider
 • Ativar/desativar o modo de foco com um botão toggle
 • Visualizar o centro exato da zona de foco com um marcador em cruz
 • Centralizar automaticamente o mapa ao clicar fora da zona de foco quando o modo estiver ativado
-
 Ideal para trabalhos que requerem precisão no posicionamento e visualização do centro do mapa.
 
 tracker=https://github.com/skavazza/Canva-Focus/issues
@@ -28,24 +25,16 @@ repository=https://github.com/skavazza/Canva-Focus
 # Recommended items:
 
 hasProcessingProvider=no
-
-# Changelog
-changelog=Versão 1.0 - 2026-01-11
-• Implementação inicial do plugin
-• Controle de borda ajustável com slider
-• Botão toggle para ativar/desativar o modo de foco
-• Visualização do centro da zona de foco com marcador
-• Interceptação de cliques para centralização automática do mapa
-• Interface dockwidget com controles intuitivos
+# Uncomment the following line and add your changelog:
+# changelog=
 
 # Tags are comma separated with spaces allowed
-tags=python,map,canvas,focus,center,border,visualization,navigation
+tags=cad, delimitation, digitizing
 
 homepage=https://github.com/skavazza/Canva-Focus
 category=Plugins
 icon=icon.png
-# experimental flag
-experimental=False
+
 
 # deprecated flag (applies to the whole plugin, not just a single version)
 deprecated=False
@@ -55,7 +44,7 @@ deprecated=False
 # Check the documentation for more information.
 # plugin_dependencies=
 
-# Category of the plugin: Raster, Vector, Database or Web
+Category of the plugin: Raster, Vector, Database or Web
 # category=
 
 # If the plugin can run on QGIS Server.
